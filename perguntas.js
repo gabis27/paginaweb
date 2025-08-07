@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que significa HTML?',
+    'HyperText Markup Language'
 )
 
 criaCartao(
